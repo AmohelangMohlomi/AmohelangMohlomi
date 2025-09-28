@@ -24,7 +24,7 @@ I'm a passionate aspiring **Data Engineer** with an interest in **Artificial Int
 
 ### 📫 Let's Connect
 
-- 📧 Email: [mohlomiamohelang3@gmail.com](mailto:mohlomiamohelang3@gmail.com)  
+- 📧 Email: mohlomiamohelang3@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/amohelang-mohlomi-304526271](https://www.linkedin.com/in/amohelang-mohlomi-304526271)
 
 ---
