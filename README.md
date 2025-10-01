@@ -23,7 +23,7 @@ I'm a passionate aspiring **Data Engineer** with an interest in **Artificial Int
 
 - **Languages:** Python, SQL , HTML, CSS, JavaScript, Java
 - **Technologies:** Flask
-- **Cloud Platforms:** AWS (learning)
+- **Cloud Platforms:** AWS 
 - **Tools:** Git, Docker, Jupyter, VS Code, IntelliJ
 
 ---
