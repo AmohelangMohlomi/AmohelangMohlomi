@@ -13,6 +13,12 @@ I'm a passionate aspiring **Data Engineer** with an interest in **Artificial Int
 
 ---
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmohelangMohlomi&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmohelangMohlomi)
+
+
+
 ### 💡 Tech & Tools I'm Exploring
 
 - **Languages:** Python, SQL , HTML, CSS, JavaScript, Java
