@@ -13,7 +13,8 @@ I'm a passionate aspiring **Data Engineer** with an interest in **Artificial Int
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmohelangMohlomi&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmohelangMohlomishow_icons=true&theme=tokyonight)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmohelangMohlomi)
 
