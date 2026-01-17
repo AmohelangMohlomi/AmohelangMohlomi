@@ -11,15 +11,6 @@ I'm a passionate aspiring **Data Engineer** with an interest in **Artificial Int
 - 🤝 Open to junior and internship opportunities in software engineering
 - 🌍 Johannesburg, South Africa
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmohelangMohlomishow_icons=true&theme=tokyonight)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmohelangMohlomi)
-
-
-
-
 ### 💡 Tech & Tools I'm Exploring
 
 - **Languages**: Python, SQL, JavaScript, Java, TypeScript, C#
