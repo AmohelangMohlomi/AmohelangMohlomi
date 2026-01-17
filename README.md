@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Amohelang Mohlomi
 
-I'm a passionate aspiring **Data Engineer** with an interest in **Artificial Intelligence** and **Machine Learning**. I'm constantly learning and building skills to solve real-world problems through scalable engineering solutions and intelligent models.
+I’m a Junior Software Engineer and Data Engineering major at WeThinkCode_, with hands-on experience building backend and data-driven applications.
 
 ---
 
