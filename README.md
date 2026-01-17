@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Amohelang Mohlomi
+- Powered by coffee and curiosity
 
 I’m a Junior Software Engineer and Data Engineering major at WeThinkCode_, with hands-on experience building backend and data-driven applications.
 
